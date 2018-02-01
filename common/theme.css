@@ -1,0 +1,15 @@
+:root {
+  --color-primary: goldenrod;
+  --color-primary-light: gold;
+  --color-accent: lightcoral;
+  --color-accent:greenyellow;
+  --color-neutral-beige: #e2e2e2;
+  --color-whatever: peachpuff;
+
+  --font-primary: "Alegrya Sans", "Trebuchet MS", arial, sans-serif;
+  --font-secondary: "Source Cod Pro", menlo, sonsolas, monospace;
+}
+
+html {
+  font-family: var(--font-primary);
+}
