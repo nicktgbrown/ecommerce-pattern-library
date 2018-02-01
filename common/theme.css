@@ -1,14 +1,41 @@
 :root {
-  --color-primary: goldenrod;
-  --color-primary-light: gold;
+  --color-primary: #000;
+  --color-primary-light: #3B3B3B;
   --color-accent: lightcoral;
   --color-accent: greenyellow;
   --color-neutral-beige: #e2e2e2;
   --color-whatever: peachpuff;
-  --font-primary: "Alegrya Sans", "Trebuchet MS", arial, sans-serif;
-  --font-secondary: "Source Cod Pro", menlo, sonsolas, monospace;
+  --font-primary: "Gloria Hallelujah", sans-serif;
+  --font-secondary: "Courier New", Courier, monospace;
 }
 
 html {
   font-family: var(--font-primary);
+}
+
+h1 {
+  font-family: var(--font-primary);
+  color: var(--color-primary);
+}
+
+h2 {
+  font-family: var(--font-primary);
+  color: var(--color-primary);
+}
+
+h3 {
+  font-family: var(--font-primary);
+  color: var(--color-primary);
+}
+
+p {
+  font-family: var(--font-secondary);
+}
+
+a {
+  font-family: var(--font-primary);
+}
+
+ul, ol, dl, {
+  font-family: var(--font-secondary);
 }
