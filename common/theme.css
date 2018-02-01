@@ -1,10 +1,9 @@
 :root {
   --color-primary: #000;
   --color-primary-light: #3B3B3B;
-  --color-accent: lightcoral;
-  --color-accent: greenyellow;
+  --color-accent: ##FF9A9A;
+  --color-accent: #FF8686;
   --color-neutral-beige: #e2e2e2;
-  --color-whatever: peachpuff;
   --font-primary: "Gloria Hallelujah", sans-serif;
   --font-secondary: "Courier New", Courier, monospace;
 }
