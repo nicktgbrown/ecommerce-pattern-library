@@ -1,0 +1,17 @@
+.btn {
+  background-color: var(--color-accent-primary);
+  color: #fff;
+  border-radius: 8px;
+}
+
+.btn-light {
+  background-color: var(--color-accent-secondary);
+  color: #fff;
+  border-radius: 8px;
+}
+
+.btn-ghost {
+  background-color: var(--color-neutral);
+  color: #000;
+  border-radius: 8px;
+}
