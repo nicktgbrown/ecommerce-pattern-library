@@ -1,17 +1,21 @@
 .btn {
   background-color: var(--color-accent-primary);
-  color: #fff;
   border-radius: 8px;
+
+  color: #fff;
 }
 
 .btn-light {
   background-color: var(--color-accent-secondary);
-  color: #fff;
   border-radius: 8px;
+
+  color: #fff;
 }
 
 .btn-ghost {
-  background-color: var(--color-neutral);
-  color: #000;
+  background-color: transparent;
+  border-color: var(--color-accent-primary);
   border-radius: 8px;
+
+  color: var(--color-accent-primary);
 }
