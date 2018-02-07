@@ -1,8 +1,8 @@
 :root {
   --color-primary: #000;
-  --color-primary-light: #3B3B3B;
-  --color-accent: ##FF9A9A;
-  --color-accent: #FF8686;
+  --color-primary-light: #3b3b3b;
+  --color-accent: #ff8888;
+  --color-accent: #f16465;
   --color-neutral-beige: #e2e2e2;
   --font-primary: "Gloria Hallelujah", sans-serif;
   --font-secondary: "Courier New", Courier, monospace;
@@ -33,8 +33,14 @@ p {
 
 a {
   font-family: var(--font-primary);
+  color: var(--color-primary);
+  text-decoration: none;
 }
 
-ul, ol, dl, {
+ul, ol, dl {
   font-family: var(--font-secondary);
+}
+
+mark {
+  background-color: var(--color-accent);
 }
