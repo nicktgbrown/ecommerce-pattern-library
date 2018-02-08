@@ -1,5 +1,6 @@
 .btn {
   background-color: var(--color-accent-primary);
+  border-color: var(--color-accent-primary);
   border-radius: 8px;
 
   color: #fff;
@@ -7,6 +8,7 @@
 
 .btn-light {
   background-color: var(--color-accent-secondary);
+  border-color: var(--color-accent-secondary);
   border-radius: 8px;
 
   color: #fff;
@@ -18,4 +20,20 @@
   border-radius: 8px;
 
   color: var(--color-accent-primary);
+}
+
+.btn:hover {
+  background-color: var(--color-accent-secondary);
+  border-color: var(--color-accent-secondary);
+}
+
+.btn-light:hover {
+  background-color: var(--color-accent-primary);
+  border-color: var(--color-accent-primary);
+}
+
+.btn-ghost:hover {
+  background-color: var(--color-accent-secondary);
+  border-color: var(--color-accent-primary);
+  color: #fff;
 }
