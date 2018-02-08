@@ -1,0 +1,27 @@
+.card {
+  border: 2px solid var(--color-primary-light);
+  border-radius: 8px;
+
+  color: var(--color-primary);
+}
+
+.image-card {
+  background-image: url("../../images/alley.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+
+  filter: grayscale(0);
+  transition: all .2s ease-in;
+}
+
+.image-card:hover {
+  filter: grayscale(1);
+}
+
+.banner {
+  background-image: url("../../images/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}

@@ -16,7 +16,7 @@
 
 .btn-ghost {
   background-color: transparent;
-  border-color: var(--color-accent-primary);
+  border-color: var(--color-accent-secondary);
   border-radius: 8px;
 
   color: var(--color-accent-primary);
@@ -34,6 +34,6 @@
 
 .btn-ghost:hover {
   background-color: var(--color-accent-secondary);
-  border-color: var(--color-accent-primary);
+  border-color: var(--color-accent-secondary);
   color: #fff;
 }
