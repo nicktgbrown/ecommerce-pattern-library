@@ -8,10 +8,6 @@
   --font-secondary: "Gloria Hallelujah", sans-serif;
 }
 
-html {
-  font-family: var(--font-primary);
-}
-
 h1 {
   font-family: var(--font-secondary);
   color: var(--color-primary);
@@ -35,6 +31,11 @@ a {
   font-family: var(--font-secondary);
   color: var(--color-accent-primary);
   text-decoration: none;
+}
+
+nav {
+  font-family: var(--font-secondary);
+  color: var(--color-primary);
 }
 
 ul, ol, dl {
