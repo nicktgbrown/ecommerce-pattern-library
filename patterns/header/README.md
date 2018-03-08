@@ -1,0 +1,1 @@
+The header will be used universally on all the sites web pages. It will not change depending on the page, and remain the same. It contains the primary navigation, as well as the sites logo. Nothing should be added to or taken from the header.
