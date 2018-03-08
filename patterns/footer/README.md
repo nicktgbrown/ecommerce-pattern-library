@@ -1,0 +1,1 @@
+The footer is to be used just like the header, universally used on every page, and will not vary at all. No changes can be made to this, even spacing, it should remain uniform throughout the site. It holds copyright, a small icon, and a secondary navigation.
