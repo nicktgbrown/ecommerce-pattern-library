@@ -17,15 +17,16 @@
 
     <div class="push">
       <label for="name"><p class="push-0 giga bold">Pick your color</p></label>
-      <select id="colors" required aria-describedby="name-error">
-        <option value="White">
-        <option value="Black">
+      <select id="colors" required aria-describedby="color-error">
+        <option value="">Pick a color</option>
+        <option>White</option>
+        <option>Black</option>
       </select>
-      <p class="error-message milli push-0 pad-t-0" id="name-error">
-        <span class="icon-label">Please provide a name</span>
+      <p class="error-message milli push-0 pad-t-0" id="color-error">
+        <span class="icon-label">Please provide a color</span>
       </p>
     </div>
-
+    <script src="https://thomasjbradley.github.io/form-validation-helper/index.js"></script>
   </form>
 
 </body>

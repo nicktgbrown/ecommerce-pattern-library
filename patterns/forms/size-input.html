@@ -17,18 +17,19 @@
 
     <div class="push">
       <label for="name"><p class="push-0 giga bold">Select your size</p></label>
-      <select id="size" required aria-describedby="name-error">
-        <option value="XS">XS</option>
-        <option value="S">S</option>
-        <option value="M">M</option>
-        <option value="L">L</option>
-        <option value="XL">XL</option>
+      <select id="size" required aria-describedby="size-error">
+        <option value="">Select a size</option>
+        <option>XS</option>
+        <option>S</option>
+        <option>M</option>
+        <option>L</option>
+        <option>XL</option>
       </select>
-      <p class="error-message milli push-0 pad-t-0" id="name-error">
-        <span class="icon-label">Please provide a name</span>
+      <p class="error-message milli push-0 pad-t-0" id="size-error">
+        <span class="icon-label">Please pick a size</span>
       </p>
     </div>
-
+    <script src="https://thomasjbradley.github.io/form-validation-helper/index.js"></script>
   </form>
 
 </body>
