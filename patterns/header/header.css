@@ -5,3 +5,7 @@ a {
 .header {
   background-color: #fff;
 }
+
+a:hover {
+  color: var(--color-accent-primary);
+}
