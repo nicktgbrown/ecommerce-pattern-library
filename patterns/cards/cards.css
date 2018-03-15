@@ -26,6 +26,10 @@
   height: 100%;
 }
 
+.banner p {
+  max-width: 50%;
+}
+
 .product-card:hover {
   border: 3px solid var(--color-accent-primary);
   transform: scale(.98);
