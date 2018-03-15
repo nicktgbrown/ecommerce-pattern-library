@@ -1,6 +1,8 @@
 ---
 basic-card: |
   The basic card will be used on the websites products. They are to only be used for showcasing products, and will contain things like images, buttons, and details about the products.
+product-card: |
+  The product card will be used on pages displaying products. They will be used as small previews of products, which can be clicked to bring the user to a detailed product page.
 image-card: |
   The image cards are only to be used on the home page, as quick-links for things like social media posts, highlighted products, or to event pages. They are only to be displayed in the shape of perfect squares.
 banner: |

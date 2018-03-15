@@ -5,3 +5,11 @@ footer {
 a {
   color: var(--colour-primary);
 }
+
+a:hover {
+  color: var(--color-accent-primary);
+}
+
+a:active {
+  text-decoration: underline;
+}

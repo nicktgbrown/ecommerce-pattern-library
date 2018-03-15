@@ -15,9 +15,9 @@ colors:
   primary: |
     The primary color is meant to maintain the aesthetic of the bagelboi brand, which scarcely uses color. It often uses just black and white to maintain a simple, clean theme.
   accent: |
-    The accent is just used to bring a bit more style to the site. It is only to be used on buttons and to highlight specific information.
+    The accent is just used to bring a bit more style to the site. It is only to be used on buttons and to highlight specific information. It is also often used for the hover-states of most links. Sale prices on items will also use this color.
   neutral: |
     The neutral color is meant to separate things like cards and specific sections from the surrounding white backgrounds.
 ---
 
-bagelboi brings custom designs that are both green and ethical to your doorstep through it's online store.
+bagelboi brings custom clothing designs that are both green and ethical to your doorstep through it's online store.

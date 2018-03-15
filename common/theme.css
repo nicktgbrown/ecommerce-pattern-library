@@ -49,3 +49,7 @@ mark {
 .btn, .btn-light, .btn-ghost {
   font-family: var(--font-secondary);
 }
+
+a:hover {
+  color: var(--color-primary);
+}

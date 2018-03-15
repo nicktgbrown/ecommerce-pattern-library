@@ -1,3 +1,7 @@
-.pages {
+.page {
   text-decoration: none;
+}
+
+.pages {
+  max-width: 15em;
 }

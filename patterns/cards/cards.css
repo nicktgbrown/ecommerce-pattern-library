@@ -25,3 +25,9 @@
   background-size: cover;
   height: 100%;
 }
+
+.product-card:hover {
+  border: 3px solid var(--color-accent-primary);
+  transform: scale(.98);
+  transition: all .1s ease-in;
+}
