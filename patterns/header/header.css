@@ -9,7 +9,3 @@ a {
 a:hover {
   color: var(--color-accent-primary);
 }
-
-a:active {
-  text-decoration: underline;
-}
