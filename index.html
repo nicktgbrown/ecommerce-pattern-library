@@ -1283,6 +1283,7 @@
         <ol class="list-group-inline push-1-4 pad-b-1-4">
             <li><a href="#forms--basic-input">Basic input</a></li>
             <li><a href="#forms--color-input">Color input</a></li>
+            <li><a href="#forms--cvv-input">Cvv input</a></li>
             <li><a href="#forms--date-input">Date input</a></li>
             <li><a href="#forms--numerical-input">Numerical input</a></li>
             <li><a href="#forms--size-input">Size input</a></li>
@@ -1360,9 +1361,9 @@
 
   &lt;div class="push">
     &lt;label for="name">
-      &lt;p class="push-0 giga bold">Full Name&lt;/p>
+      &lt;p class="push-0 kilo bold">Full Name&lt;/p>
     &lt;/label>
-    &lt;input id="name" placeholder="Johnny Appleseed" required aria-describedby="name-error">
+    &lt;input id="name" placeholder="enter text here" required aria-describedby="name-error">
     &lt;p class="error-message milli push-0 pad-t-0" id="name-error">
       &lt;span class="icon-label">Please provide a name&lt;/span>
     &lt;/p>
@@ -1437,7 +1438,7 @@
 
   &lt;div class="push">
     &lt;label for="name">
-      &lt;p class="push-0 giga bold">Pick your color&lt;/p>
+      &lt;p class="push-0 kilo bold">Pick your color&lt;/p>
     &lt;/label>
     &lt;select id="colors" required aria-describedby="color-error">
       &lt;option value="">Pick a color&lt;/option>
@@ -1448,6 +1449,79 @@
       &lt;span class="icon-label">Please provide a color&lt;/span>
     &lt;/p>
   &lt;/div>
+&lt;/form>
+</pre></code>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="pattern-details " id="forms--cvv-input" style="">
+        <div class="pattern-toolbar pattern-toolbar-inner relative gutter pad-t-1-4 pad-b-1-4" style="">
+          <h3 class="pattern-name tera push-1-8">Cvv input</h3>
+            <ul class="list-group-inline gutter absolute pin-cr">
+                <li>
+                  <button class="center-contents-vertical pattern-tool-btn pattern-code-btn" title="Show code" aria-label="Show code" aria-pressed="false" aria-controls="forms-cvv-input-code-sample">
+                    <i class="icon i-18">
+                      <svg><use xlink:href="#icon-code"></use></svg>
+                    </i>
+                  </button>
+                </li>
+                <li>
+                  <button class="center-contents-vertical pattern-tool-btn pattern-include-btn" title="Copy include" aria-label="Copy include" data-copy-include-pattern="forms/cvv-input" hidden>
+                    <i class="icon i-18">
+                      <svg><use xlink:href="#icon-copy"></use></svg>
+                    </i>
+                  </button>
+                </li>
+                <li>
+                  <a class="btn center-contents-vertical pattern-tool-btn pattern-pop-btn" href="patterns/forms/cvv-input.html" target="_blank" title="Open pattern in a new tab" aria-label="Open pattern in a new tab">
+                    <i class="icon i-18">
+                      <svg><use xlink:href="#icon-pop-out"></use></svg>
+                    </i>
+                  </a>
+                </li>
+            </ul>
+        </div>
+
+      <div class="pattern-examples pad-t-1-2 pad-b-1-2" style="">
+        <div class="gutter-2 pad-t-1-2 pad-b-1-2">
+          <div class="resizeable-pattern relative" style="">
+            <i class="icon i-32 patternbot-iframe-loading-gears absolute pin-c"><svg><use xlink:href="#patternbot-iframe-loading-gears"></use></svg></i>
+            <iframe data-src="patterns/forms/cvv-input.html" scrolling="no" data-inject-css=" " ></iframe>
+              <div class="resizeable-pattern-length">
+                <div class="resize-handle resize-handle-left" style="">
+                  <i class="icon i-18">
+                    <svg><use xlink:href="#icon-resize-handle" /></svg>
+                  </i>
+                </div>
+                <div class="resize-handle resize-handle-right" style="">
+                  <i class="icon i-18">
+                    <svg><use xlink:href="#icon-resize-handle" /></svg>
+                  </i>
+                </div>
+              </div>
+          </div>
+        </div>
+
+          <div class="pattern-code-wrap gutter pad-t-1-2 pad-b-1-2" hidden aria-hidden="true" id="forms-cvv-input-code-sample" tabindex="-1">
+            <div class="pattern-code relative milli island-1-2" style="">
+              <button class="center-contents-vertical pattern-tool-btn pattern-copy-btn absolute pin-tr" title="Copy code" aria-label="Copy code" data-clipboard-target="#forms-cvv-input-code-sample-copy-chunk" hidden>
+                <i class="icon i-18">
+                  <svg><use xlink:href="#icon-copy"></use></svg>
+                </i>
+              </button>
+              <code><pre id="forms-cvv-input-code-sample-copy-chunk">&lt;form class="max-length gutter" method="post" action="#" novalidate=""&gt;
+
+  &lt;div class="push">
+    &lt;label for="ccnumber">
+      &lt;p class="push-0 kilo bold">Credit Card Number&lt;/p>
+    &lt;/label>
+    &lt;input id="ccnumber" type="text" maxlength="19" placeholder="xxx" required aria-describedby="name-error">
+    &lt;p class="error-message milli push-0 pad-t-0" id="name-error">
+      &lt;span class="icon-label">Please enter a valid Credit Card&lt;/span>
+    &lt;/p>
+  &lt;/div>
+
 &lt;/form>
 </pre></code>
             </div>
@@ -1513,11 +1587,11 @@
                   <svg><use xlink:href="#icon-copy"></use></svg>
                 </i>
               </button>
-              <code><pre id="forms-date-input-code-sample-copy-chunk">&lt;form class="max-length island" method="post" action="#" novalidate=""&gt;
+              <code><pre id="forms-date-input-code-sample-copy-chunk">&lt;form class="max-length gutter" method="post" action="#" novalidate=""&gt;
 
   &lt;div class="push">
     &lt;label for="ccdate">
-      &lt;p class="push-0 giga bold">Expiration Date&lt;/p>
+      &lt;p class="push-0 kilo bold">Expiration Date&lt;/p>
     &lt;/label>
     &lt;input id="ccdate" type="text" min="1801" maxlength="5" placeholder="YY/MM" required aria-describedby="name-error">
     &lt;p class="error-message milli push-0 pad-t-0" id="name-error">
@@ -1590,11 +1664,11 @@
                   <svg><use xlink:href="#icon-copy"></use></svg>
                 </i>
               </button>
-              <code><pre id="forms-numerical-input-code-sample-copy-chunk">&lt;form class="max-length island" method="post" action="#" novalidate=""&gt;
+              <code><pre id="forms-numerical-input-code-sample-copy-chunk">&lt;form class="max-length gutter" method="post" action="#" novalidate=""&gt;
 
   &lt;div class="push">
     &lt;label for="ccnumber">
-      &lt;p class="push-0 giga bold">Credit Card Number&lt;/p>
+      &lt;p class="push-0 kilo bold">Credit Card Number&lt;/p>
     &lt;/label>
     &lt;input id="ccnumber" type="text" maxlength="19" placeholder="xxxx-xxxx-xxxx-xxxx" required aria-describedby="name-error">
     &lt;p class="error-message milli push-0 pad-t-0" id="name-error">

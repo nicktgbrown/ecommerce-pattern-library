@@ -444,9 +444,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library
- * @version acd98f0d8452f5e1fce582eca359559232bdeb8b
+ * @version 94d2872325fc76b4c7969e5fce6e252ed9594054
  */
-const patternManifest_acd98f0d8452f5e1fce582eca359559232bdeb8b = {
+const patternManifest_94d2872325fc76b4c7969e5fce6e252ed9594054 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -814,6 +814,13 @@ const patternManifest_acd98f0d8452f5e1fce582eca359559232bdeb8b = {
           "readme": {}
         },
         {
+          "name": "cvv-input",
+          "namePretty": "Cvv input",
+          "filename": "cvv-input",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/forms/cvv-input.html",
+          "localPath": "patterns/forms/cvv-input.html"
+        },
+        {
           "name": "date-input",
           "namePretty": "Date input",
           "filename": "date-input",
@@ -994,5 +1001,5 @@ const patternManifest_acd98f0d8452f5e1fce582eca359559232bdeb8b = {
   }
 };
 
-patternBotIncludes(patternManifest_acd98f0d8452f5e1fce582eca359559232bdeb8b);
+patternBotIncludes(patternManifest_94d2872325fc76b4c7969e5fce6e252ed9594054);
 }());
