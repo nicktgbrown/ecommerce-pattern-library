@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>bagelboi - Home</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <script src="../common/patternbot.js"></script>
+</head>
+<body>
+  <script type="application/json" data-pattern="header/header">
+    {
+      "li:first-child a[class]":"active unit unit-content-distribute unit-xs-1-5 unit-s-1-5 unit-m-1-5 unit-l-1-5 unit-xl-1-5 gutter-1-4 giga"
+    }
+  </script>
+  <script type="application/json" data-pattern="footer/footer"></script>
+</body>
+</html>
