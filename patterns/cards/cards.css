@@ -1,8 +1,15 @@
+h3 {
+  color: var(--color-accent-primary);
+}
+
 .card {
   border: 2px solid var(--color-primary-light);
   border-radius: 8px;
+  background-color: #fff;
 
   color: var(--color-primary);
+
+  transition: all .1s ease-in;
 }
 
 .image-card {
@@ -10,12 +17,62 @@
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
+  min-height: 120%;
 
   filter: grayscale(0);
   transition: all .2s ease-in;
 }
 
+.image-card2 {
+  background-image: url("../../images/chinatown.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  min-height: 120%;
+
+  filter: grayscale(0);
+  transition: all .2s ease-in;
+}
+
+.image-card3 {
+  background-image: url("../../images/product-shot.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  min-height: 120%;
+
+  filter: grayscale(0);
+  transition: all .2s ease-in;
+}
+
+.image-card4 {
+  background-image: url("../../images/skate-park.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  min-height: 120%;
+
+  filter: grayscale(0);
+  transition: all .2s ease-in;
+}
+
+.card:hover {
+  transform: scale(1.04);
+}
+
 .image-card:hover {
+  filter: grayscale(1);
+}
+
+.image-card2:hover {
+  filter: grayscale(1);
+}
+
+.image-card3:hover {
+  filter: grayscale(1);
+}
+
+.image-card4:hover {
   filter: grayscale(1);
 }
 

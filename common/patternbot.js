@@ -444,9 +444,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library
- * @version 3ba3a08e1cd46bba017d8fad0ac4260c578a9c5a
+ * @version 768c29c155edf72038455c64e190750fda73dbf7
  */
-const patternManifest_3ba3a08e1cd46bba017d8fad0ac4260c578a9c5a = {
+const patternManifest_768c29c155edf72038455c64e190750fda73dbf7 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -653,6 +653,11 @@ const patternManifest_3ba3a08e1cd46bba017d8fad0ac4260c578a9c5a = {
         "name": "home.html",
         "namePretty": "Home",
         "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/pages/home.html"
+      },
+      {
+        "name": "store.html",
+        "namePretty": "Store",
+        "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/pages/store.html"
       }
     ],
     "js": []
@@ -920,6 +925,13 @@ const patternManifest_3ba3a08e1cd46bba017d8fad0ac4260c578a9c5a = {
       "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections",
       "html": [
         {
+          "name": "grey-section",
+          "namePretty": "Grey section",
+          "filename": "grey-section",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections/grey-section.html",
+          "localPath": "patterns/sections/grey-section.html"
+        },
+        {
           "name": "primary-section",
           "namePretty": "Primary section",
           "filename": "primary-section",
@@ -947,32 +959,11 @@ const patternManifest_3ba3a08e1cd46bba017d8fad0ac4260c578a9c5a = {
       ],
       "css": [
         {
-          "name": "gridifier-min",
-          "namePretty": "Gridifier min",
-          "filename": "gridifier.min",
-          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections/gridifier.min.css",
-          "localPath": "patterns/sections/gridifier.min.css"
-        },
-        {
-          "name": "modulifier-min",
-          "namePretty": "Modulifier min",
-          "filename": "modulifier.min",
-          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections/modulifier.min.css",
-          "localPath": "patterns/sections/modulifier.min.css"
-        },
-        {
           "name": "sections",
           "namePretty": "Sections",
           "filename": "sections",
           "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections/sections.css",
           "localPath": "patterns/sections/sections.css"
-        },
-        {
-          "name": "typografier-min",
-          "namePretty": "Typografier min",
-          "filename": "typografier.min",
-          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections/typografier.min.css",
-          "localPath": "patterns/sections/typografier.min.css"
         }
       ],
       "js": []
@@ -998,5 +989,5 @@ const patternManifest_3ba3a08e1cd46bba017d8fad0ac4260c578a9c5a = {
   }
 };
 
-patternBotIncludes(patternManifest_3ba3a08e1cd46bba017d8fad0ac4260c578a9c5a);
+patternBotIncludes(patternManifest_768c29c155edf72038455c64e190750fda73dbf7);
 }());

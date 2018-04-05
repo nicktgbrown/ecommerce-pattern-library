@@ -7,7 +7,11 @@
   <script src="../common/patternbot.js"></script>
 </head>
 <body>
-  <script type="application/json" data-pattern="header/header"></script>
+  <script type="application/json" data-pattern="header/header">
+    {
+      "li:first-child a[class]":"active unit unit-content-distribute unit-xs-1-5 unit-s-1-5 unit-m-1-5 unit-l-1-5 unit-xl-1-5 gutter-1-4 giga"
+    }
+  </script>
   <script type="application/json" data-pattern="cards/banner">
     {
       "h2":"Fresh looks for you and yours",
@@ -15,14 +19,49 @@
       "a":"Browse our wares"
     }
   </script>
+  <div class="grid">
+    <div class="unit unit-xs-hidden unit-s-1-2 unit-m-1-4 unit-l-1-4 unit-xl-1-4">
+      <script type="application/json" data-pattern="cards/image-card">
+        {
+          "p":"Stand out in the urban jungle with bagelboi's new sweater design, bagel flip. A brand new design with a new style too, make sure to check it out before it skates on out of our shop!"
+        }
+      </script>
+    </div>
+    <div class="unit unit-xs-hidden unit-s-1-2 unit-m-1-4 unit-l-1-4 unit-xl-1-4">
+      <script type="application/json" data-pattern="cards/image-card">
+        {
+          ".image-card[class]":"image-card2 island-1-2",
+          "p":"Our new pop-up shop is coming to Ottawa's China Town! We'll have a big selection of sweet merch for you guys to go through. The exact address will be announced on April 12th, so stay tuned for more information!"
+        }
+      </script>
+    </div>
+    <div class="unit unit-xs-hidden unit-s-1-2 unit-m-1-4 unit-l-1-4 unit-xl-1-4">
+      <script type="application/json" data-pattern="cards/image-card">
+        {
+          ".image-card[class]":"image-card3 island-1-2",
+          "p":"Grab the sweater that started it all. Our bagel boarding hoodie is available in our shop, and is the first sweater ever created under the bagelboi brand! Grab a chunk of history while you still can!"
+        }
+      </script>
+    </div>
+    <div class="unit unit-xs-hidden unit-s-1-2 unit-m-1-4 unit-l-1-4 unit-xl-1-4">
+      <script type="application/json" data-pattern="cards/image-card">
+        {
+          ".image-card[class]":"image-card4 island-1-2",
+          "p":"Catch us as at Legacy Skatepark on June 21st for Go Skateboarding day, where we'll be handing out loot like it's no ones business! We'll also be having a raffle for a whole new set up!"
+        }
+      </script>
+    </div>
+  </div>
+  <div class="pad-t">
   <script type="application/json" data-pattern="sections/primary-section">
     {
       "h2":"A little about us",
       "p":"bagelboi offers unique designs and great quality attire that will undoubtably set you apart. Made locally, ethically, and creatively, bagelboi aims to offer good quality and good sentiments. All our clothes are made ethically and with love. They are made either fairtrade or within Canada, and the materials used are all green, using a blend of cotton and bamboo. The entire journey of one bagelboi tee is filled with care and hardworking individuals who put pride into what they make."
     }
   </script>
-  <div class="greyed-out">
-    <script type="application/json" data-pattern="sections/primary-section">
+  </div>
+  <div>
+    <script type="application/json" data-pattern="sections/grey-section">
       {
         "h2":"Humble beginnings",
         "p":"bagelboi started as one dude, making tees for himself. Soon, friends wanted them, and then friends of friends, and within a short amount of time, people really wanted their own bagelboi tee's. That brings us here, to this new site, which will help you indulge all your t-shirt needs."

@@ -1,7 +1,12 @@
 .page {
   text-decoration: none;
+  text-align: center;
 }
 
 .pages {
   max-width: 15em;
+}
+
+.product-nav-active {
+  color: var(--color-accent-primary);
 }

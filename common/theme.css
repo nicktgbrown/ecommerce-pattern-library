@@ -53,3 +53,7 @@ mark {
 a:hover {
   color: var(--color-primary);
 }
+
+.grey {
+  background-color: var(--color-neutral);
+}
