@@ -444,9 +444,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library
- * @version 768c29c155edf72038455c64e190750fda73dbf7
+ * @version acd98f0d8452f5e1fce582eca359559232bdeb8b
  */
-const patternManifest_768c29c155edf72038455c64e190750fda73dbf7 = {
+const patternManifest_acd98f0d8452f5e1fce582eca359559232bdeb8b = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -649,6 +649,11 @@ const patternManifest_768c29c155edf72038455c64e190750fda73dbf7 = {
       "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections"
     ],
     "pages": [
+      {
+        "name": "checkout.html",
+        "namePretty": "Checkout",
+        "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/pages/checkout.html"
+      },
       {
         "name": "home.html",
         "namePretty": "Home",
@@ -989,5 +994,5 @@ const patternManifest_768c29c155edf72038455c64e190750fda73dbf7 = {
   }
 };
 
-patternBotIncludes(patternManifest_768c29c155edf72038455c64e190750fda73dbf7);
+patternBotIncludes(patternManifest_acd98f0d8452f5e1fce582eca359559232bdeb8b);
 }());
