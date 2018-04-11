@@ -444,9 +444,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library
- * @version 94d2872325fc76b4c7969e5fce6e252ed9594054
+ * @version 5f6b1de6e46659e479b0db1272e725841e119b1a
  */
-const patternManifest_94d2872325fc76b4c7969e5fce6e252ed9594054 = {
+const patternManifest_5f6b1de6e46659e479b0db1272e725841e119b1a = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -674,11 +674,25 @@ const patternManifest_94d2872325fc76b4c7969e5fce6e252ed9594054 = {
       "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons",
       "html": [
         {
-          "name": "buttons",
-          "namePretty": "Buttons",
-          "filename": "buttons",
-          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons/buttons.html",
-          "localPath": "patterns/buttons/buttons.html"
+          "name": "ghost-button",
+          "namePretty": "Ghost button",
+          "filename": "ghost-button",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons/ghost-button.html",
+          "localPath": "patterns/buttons/ghost-button.html"
+        },
+        {
+          "name": "light-button",
+          "namePretty": "Light button",
+          "filename": "light-button",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons/light-button.html",
+          "localPath": "patterns/buttons/light-button.html"
+        },
+        {
+          "name": "standard-button",
+          "namePretty": "Standard button",
+          "filename": "standard-button",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons/standard-button.html",
+          "localPath": "patterns/buttons/standard-button.html"
         }
       ],
       "md": [
@@ -1001,5 +1015,5 @@ const patternManifest_94d2872325fc76b4c7969e5fce6e252ed9594054 = {
   }
 };
 
-patternBotIncludes(patternManifest_94d2872325fc76b4c7969e5fce6e252ed9594054);
+patternBotIncludes(patternManifest_5f6b1de6e46659e479b0db1272e725841e119b1a);
 }());
