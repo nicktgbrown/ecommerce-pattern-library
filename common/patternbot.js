@@ -443,10 +443,10 @@ const patternBotIncludes = function (manifest) {
 
 /** 
  * Patternbot library manifest
- * /Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick
- * @version f00a5554fafcbb5a25717c0457c162b54b72ab89
+ * /Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library
+ * @version c842f0e63c23c248ff0ba7b310df867f1ec9c0bd
  */
-const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
+const patternManifest_c842f0e63c23c248ff0ba7b310df867f1ec9c0bd = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -621,53 +621,53 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
   },
   "patternLibFiles": {
     "commonParsable": {
-      "gridifier": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/common/grid.css",
-      "typografier": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/common/type.css",
-      "modulifier": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/common/modules.css",
-      "theme": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/common/theme.css"
+      "gridifier": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/common/grid.css",
+      "typografier": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/common/type.css",
+      "modulifier": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/common/modules.css",
+      "theme": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/common/theme.css"
     },
     "imagesParsable": {
-      "icons": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/images/icons.svg"
+      "icons": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/images/icons.svg"
     },
     "logos": {
-      "sizeLarge": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/images/logo-256.svg",
-      "size64": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/images/logo-64.svg",
-      "size32": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/images/logo-32.svg",
-      "size16": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/images/logo-16.svg",
+      "sizeLarge": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/images/logo-256.svg",
+      "size64": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/images/logo-64.svg",
+      "size32": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/images/logo-32.svg",
+      "size16": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/images/logo-16.svg",
       "size16Local": "logo-16.svg",
       "sizeLargeLocal": "logo-256.svg",
       "size32Local": "logo-32.svg",
       "size64Local": "logo-64.svg"
     },
     "patterns": [
-      "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/buttons",
-      "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/cards",
-      "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/footer",
-      "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/forms",
-      "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/header",
-      "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/navigation",
-      "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/sections"
+      "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons",
+      "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/cards",
+      "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/footer",
+      "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/forms",
+      "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/header",
+      "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/navigation",
+      "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections"
     ],
     "pages": [
       {
         "name": "checkout.html",
         "namePretty": "Checkout",
-        "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/pages/checkout.html"
+        "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/pages/checkout.html"
       },
       {
         "name": "home.html",
         "namePretty": "Home",
-        "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/pages/home.html"
+        "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/pages/home.html"
       },
       {
         "name": "product-details.html",
         "namePretty": "Product details",
-        "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/pages/product-details.html"
+        "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/pages/product-details.html"
       },
       {
         "name": "store.html",
         "namePretty": "Store",
-        "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/pages/store.html"
+        "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/pages/store.html"
       }
     ],
     "js": []
@@ -676,27 +676,27 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
     {
       "name": "buttons",
       "namePretty": "Buttons",
-      "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/buttons",
+      "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons",
       "html": [
         {
           "name": "ghost-button",
           "namePretty": "Ghost button",
           "filename": "ghost-button",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/buttons/ghost-button.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons/ghost-button.html",
           "localPath": "patterns/buttons/ghost-button.html"
         },
         {
           "name": "light-button",
           "namePretty": "Light button",
           "filename": "light-button",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/buttons/light-button.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons/light-button.html",
           "localPath": "patterns/buttons/light-button.html"
         },
         {
           "name": "standard-button",
           "namePretty": "Standard button",
           "filename": "standard-button",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/buttons/standard-button.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons/standard-button.html",
           "localPath": "patterns/buttons/standard-button.html"
         }
       ],
@@ -705,7 +705,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/buttons/README.md",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons/README.md",
           "localPath": "patterns/buttons/README.md"
         }
       ],
@@ -714,7 +714,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "buttons",
           "namePretty": "Buttons",
           "filename": "buttons",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/buttons/buttons.css",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/buttons/buttons.css",
           "localPath": "patterns/buttons/buttons.css"
         }
       ],
@@ -723,13 +723,13 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
     {
       "name": "cards",
       "namePretty": "Cards",
-      "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/cards",
+      "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/cards",
       "html": [
         {
           "name": "banner",
           "namePretty": "Banner",
           "filename": "banner",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/cards/banner.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/cards/banner.html",
           "localPath": "patterns/cards/banner.html",
           "readme": {}
         },
@@ -737,7 +737,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "basic-card",
           "namePretty": "Basic card",
           "filename": "basic-card",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/cards/basic-card.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/cards/basic-card.html",
           "localPath": "patterns/cards/basic-card.html",
           "readme": {}
         },
@@ -745,7 +745,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "image-card",
           "namePretty": "Image card",
           "filename": "image-card",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/cards/image-card.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/cards/image-card.html",
           "localPath": "patterns/cards/image-card.html",
           "readme": {}
         },
@@ -753,7 +753,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "product-card",
           "namePretty": "Product card",
           "filename": "product-card",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/cards/product-card.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/cards/product-card.html",
           "localPath": "patterns/cards/product-card.html",
           "readme": {}
         }
@@ -763,7 +763,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/cards/README.md",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/cards/README.md",
           "localPath": "patterns/cards/README.md"
         }
       ],
@@ -772,7 +772,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "cards",
           "namePretty": "Cards",
           "filename": "cards",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/cards/cards.css",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/cards/cards.css",
           "localPath": "patterns/cards/cards.css"
         }
       ],
@@ -781,13 +781,13 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
     {
       "name": "footer",
       "namePretty": "Footer",
-      "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/footer",
+      "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/footer",
       "html": [
         {
           "name": "footer",
           "namePretty": "Footer",
           "filename": "footer",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/footer/footer.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/footer/footer.html",
           "localPath": "patterns/footer/footer.html"
         }
       ],
@@ -796,7 +796,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/footer/README.md",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/footer/README.md",
           "localPath": "patterns/footer/README.md"
         }
       ],
@@ -805,7 +805,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "footer",
           "namePretty": "Footer",
           "filename": "footer",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/footer/footer.css",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/footer/footer.css",
           "localPath": "patterns/footer/footer.css"
         }
       ],
@@ -814,13 +814,13 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
     {
       "name": "forms",
       "namePretty": "Forms",
-      "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/forms",
+      "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/forms",
       "html": [
         {
           "name": "basic-input",
           "namePretty": "Basic input",
           "filename": "basic-input",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/forms/basic-input.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/forms/basic-input.html",
           "localPath": "patterns/forms/basic-input.html",
           "readme": {}
         },
@@ -828,7 +828,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "color-input",
           "namePretty": "Color input",
           "filename": "color-input",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/forms/color-input.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/forms/color-input.html",
           "localPath": "patterns/forms/color-input.html",
           "readme": {}
         },
@@ -836,14 +836,14 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "cvv-input",
           "namePretty": "Cvv input",
           "filename": "cvv-input",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/forms/cvv-input.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/forms/cvv-input.html",
           "localPath": "patterns/forms/cvv-input.html"
         },
         {
           "name": "date-input",
           "namePretty": "Date input",
           "filename": "date-input",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/forms/date-input.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/forms/date-input.html",
           "localPath": "patterns/forms/date-input.html",
           "readme": {}
         },
@@ -851,7 +851,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "numerical-input",
           "namePretty": "Numerical input",
           "filename": "numerical-input",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/forms/numerical-input.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/forms/numerical-input.html",
           "localPath": "patterns/forms/numerical-input.html",
           "readme": {}
         },
@@ -859,7 +859,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "size-input",
           "namePretty": "Size input",
           "filename": "size-input",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/forms/size-input.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/forms/size-input.html",
           "localPath": "patterns/forms/size-input.html",
           "readme": {}
         }
@@ -869,7 +869,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/forms/README.md",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/forms/README.md",
           "localPath": "patterns/forms/README.md"
         }
       ],
@@ -878,7 +878,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "forms",
           "namePretty": "Forms",
           "filename": "forms",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/forms/forms.css",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/forms/forms.css",
           "localPath": "patterns/forms/forms.css"
         }
       ],
@@ -887,13 +887,13 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
     {
       "name": "header",
       "namePretty": "Header",
-      "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/header",
+      "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/header",
       "html": [
         {
           "name": "header",
           "namePretty": "Header",
           "filename": "header",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/header/header.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/header/header.html",
           "localPath": "patterns/header/header.html"
         }
       ],
@@ -902,7 +902,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/header/README.md",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/header/README.md",
           "localPath": "patterns/header/README.md"
         }
       ],
@@ -911,7 +911,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "header",
           "namePretty": "Header",
           "filename": "header",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/header/header.css",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/header/header.css",
           "localPath": "patterns/header/header.css"
         }
       ],
@@ -920,13 +920,13 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
     {
       "name": "navigation",
       "namePretty": "Navigation",
-      "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/navigation",
+      "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/navigation",
       "html": [
         {
           "name": "pages-nav",
           "namePretty": "Pages nav",
           "filename": "pages-nav",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/navigation/pages-nav.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/navigation/pages-nav.html",
           "localPath": "patterns/navigation/pages-nav.html"
         }
       ],
@@ -935,7 +935,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/navigation/README.md",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/navigation/README.md",
           "localPath": "patterns/navigation/README.md"
         }
       ],
@@ -944,7 +944,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "navigation",
           "namePretty": "Navigation",
           "filename": "navigation",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/navigation/navigation.css",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/navigation/navigation.css",
           "localPath": "patterns/navigation/navigation.css"
         }
       ],
@@ -953,20 +953,20 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
     {
       "name": "sections",
       "namePretty": "Sections",
-      "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/sections",
+      "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections",
       "html": [
         {
           "name": "grey-section",
           "namePretty": "Grey section",
           "filename": "grey-section",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/sections/grey-section.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections/grey-section.html",
           "localPath": "patterns/sections/grey-section.html"
         },
         {
           "name": "primary-section",
           "namePretty": "Primary section",
           "filename": "primary-section",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/sections/primary-section.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections/primary-section.html",
           "localPath": "patterns/sections/primary-section.html",
           "readme": {}
         },
@@ -974,7 +974,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "product-details",
           "namePretty": "Product details",
           "filename": "product-details",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/sections/product-details.html",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections/product-details.html",
           "localPath": "patterns/sections/product-details.html",
           "readme": {}
         }
@@ -984,7 +984,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/sections/README.md",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections/README.md",
           "localPath": "patterns/sections/README.md"
         }
       ],
@@ -993,7 +993,7 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
           "name": "sections",
           "namePretty": "Sections",
           "filename": "sections",
-          "path": "/Users/derickdinh/Desktop/year 2/Semester 2 /web-dev/ecommerce-pattern-library-nick/patterns/sections/sections.css",
+          "path": "/Users/nicholas/Documents/School/Semester 3/Web IV/eCommerce Website/ecommerce-pattern-library/patterns/sections/sections.css",
           "localPath": "patterns/sections/sections.css"
         }
       ],
@@ -1020,5 +1020,5 @@ const patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89 = {
   }
 };
 
-patternBotIncludes(patternManifest_f00a5554fafcbb5a25717c0457c162b54b72ab89);
+patternBotIncludes(patternManifest_c842f0e63c23c248ff0ba7b310df867f1ec9c0bd);
 }());
