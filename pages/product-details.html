@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>bagelboi - Checkout</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <script src="../common/patternbot.js"></script>
+</head>
+<body>
+  <script type="application/json" data-pattern="header/header">
+    {
+      "ul li:nth-child(2) a[class]":"active unit unit-content-distribute unit-xs-1-5 unit-s-1-5 unit-m-1-5 unit-l-1-5 unit-xl-1-5 gutter-1-4 giga"
+    }
+  </script>
+  <div class="grid push-1-2">
+    <div class="unit unit-xs-1 unit-s-1 unit-m-1-2 unit-l-1-2 unit-xl-1-2 unit-content-center island-2">
+      <img class="img-flex" src="../../images/product1.jpg" alt="">
+    </div>
+    <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 island">
+      <script type="application/json" data-pattern="sections/product-details">
+        {
+          "h2": "Bagel Boi Hoodie",
+          "h3": "$39.99",
+          "p": "A sweater made of a cotton and bamboo blend. All materials are made using green practices, and are put together in Canada."
+        }
+      </script>
+      <script type="application/json" data-pattern="forms/color-input"></script>
+      <script class="unit-content-center" type="application/json" data-pattern="forms/size-input"></script>
+      <div class="unit-content-center">
+        <script type="application/json" data-pattern="buttons/light-button">
+        {
+          "a": "Checkout"
+        }
+      </script>
+      </div>
+    </div>
+  </div>
+  <script type="application/json" data-pattern="footer/footer"></script>
+</body>
