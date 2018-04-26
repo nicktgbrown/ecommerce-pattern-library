@@ -10,6 +10,11 @@ a:hover {
   color: var(--color-accent-primary);
 }
 
+header, a:hover {
+  opacity: 0.75;
+  transition: all .2s ease-in-out;
+}
+
 .cart {
   text-align: right;
 }
